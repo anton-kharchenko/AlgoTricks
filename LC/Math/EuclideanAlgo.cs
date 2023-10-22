@@ -13,7 +13,7 @@ public class EuclideanAlgo
     
     /// <summary>
     /// Lowes common divisor (a*b) / GCD(a, b);
-    /// Time - O((a*b) / log min(a, b))
+    /// Time - O((a*b)  / log min(a, b))
     /// </summary>
     public int Lcm(int a, int b)
     {
